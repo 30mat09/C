@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599994973 source:c:\users\30mat\bureau\programme\c\formulaire de recrutement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600968726 source:c:\users\30mat\bureau\programme\c\forme canonique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1600975065 source:c:\users\30mat\bureau\programme\c\discriminant et racine polynomiale\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

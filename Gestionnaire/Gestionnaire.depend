@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1600977265 source:c:\users\30mat\bureau\programme\c\gestionnaire\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	"boot.h"
+	"login.h"
+	"tache.h"
+	"preference.h"
+
+1600451348 c:\users\30mat\bureau\programme\c\gestionnaire\boot.h
+
+1600451439 c:\users\30mat\bureau\programme\c\gestionnaire\login.h
+
+1600451553 c:\users\30mat\bureau\programme\c\gestionnaire\tache.h
+
+1600977490 c:\users\30mat\bureau\programme\c\gestionnaire\preference.h
+
